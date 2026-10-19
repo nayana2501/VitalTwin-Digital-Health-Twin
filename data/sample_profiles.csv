@@ -1,0 +1,4 @@
+profile_id,age,activity_min_day,sleep_hours,stress_1_to_10,resting_hr_bpm,systolic_bp_mmhg,hydration_l_day
+demo_01,30,20,6.0,7,75,132,1.5
+demo_02,24,45,7.5,4,68,118,2.3
+demo_03,52,15,6.5,6,78,128,1.8
